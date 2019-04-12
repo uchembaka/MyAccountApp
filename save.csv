@@ -1,0 +1,7 @@
+Date,ID,Category,Description,Entry-Type,Amount
+2019-04-01,ex0,Food,Chinese Takeaway,Expense,5.5
+2019-03-27,ex1,Rent and/or House Bills,House Rent March,Expense,500.0
+2019-03-27,ex2,Rent and/or House Bills,Electricity Bill March,Expense,50.0
+2019-03-26,ex3,Transportation,,Expense,50.0
+2019-03-28,in4,Salary,Fusco,Income,237.66
+2019-03-27,ex5,Rent and/or House Bills,Internet Bill March,Expense,15.0

@@ -1,0 +1,46 @@
+1. Types of entries
+	a. Income
+		i. Salary
+		ii. Gift
+		iii. Investment Return
+		iv. Friends/Relative.
+		v. Others
+	b. Expense
+		i. Groceries
+		ii. Entertainment
+		iii. Transportation
+		iv. Food
+		v. Rent
+		vi. Business
+		vii. Others
+		viii. Wardrobe
+2. Entries xterics 
+	a. name*
+	b. id
+	c. category
+	d. notes (desc)
+	e. amount
+	f. date
+	
+3. Save file in
+	a. dat
+	b. txt
+	c. csv
+
+4. Menu
+	a. add income
+	b. delete(remove)
+	c. view Income
+		i. next and prev
+	d. view Expense
+		ii. next and prev
+	e. add expense
+	f. View Stat
+	g. View all
+	f. get csv
+	h. search
+	i, edit entry 
+	j. Get balance
+	k. View By (Category, Month)
+	f. exit
+	
